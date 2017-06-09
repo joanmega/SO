@@ -1,0 +1,10 @@
+total 1396
+drwxrwxr-x 3 medina medina    4096 oct 26 20:26 .
+drwxrwxr-x 6 medina medina    4096 oct 24 15:36 ..
+-rw-rw-r-- 1 medina medina     543 oct 26 20:26 archivo.txt
+-rw-rw-r-- 1 medina medina     178 oct 25 17:35 ejercicio3_2.sh
+-rw-rw-r-- 1 medina medina     279 oct 24 17:14 .ejercicio3_2.sh (Copia en conflicto de medina 2014-10-24).kate-swp
+-rw-rw-r-- 1 medina medina    1784 oct 26 16:35 ejercicio4_2.txt
+drwxrwxr-x 2 medina medina    4096 oct 26 19:35 MODI-sesion3
+-rw-r----- 1 medina medina 1396047 oct 24 15:36 MODI-sesion3.zip
+-rw-rw-r-- 1 medina medina       0 oct 26 20:26 target_hardLink2.txt

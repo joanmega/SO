@@ -1,0 +1,35 @@
+Fifo con nombre:
+	Inicialmente están vacíos, no tienen bloques de datos.
+	creación:	- mknod: (creamos una entrada en un directorio, solo que ese archivo es de tipo pipe)
+				- mkfifo: 
+				
+	unlink: Para eliminar los archivos fifo
+	close: para cerrar el descriptores de archivos que no vamos a seguir utilizando.
+	
+Fifo sin nombre (pipe):
+
+	creación: Se crean con la llamada al sistema pipe. Devuelve dos descriptores de archivo que son (un vector de dos enteros): 
+		fd[0] descriptor de archivo para lectura y en fd[1] almacena el descriptor para escribir.
+		
+			Proceso Padre			Proceso Hijo
+						_____________
+			---------->|	FIFO	| ------->
+			<-----x----|____________| <-x----- 		Solo en una dirección
+			
+	close: para cerrar el descriptores de archivos que no vamos a seguir utilizando.
+	
+------------------------------------------------------------------------------------------------
+
+	Para cambiar la entrada y salida estándar:
+	
+	normalmente se lee de la entrada estándar (0)
+		cerramos 0.
+	para que lea del fifo hay que cambiar la entrada estándar con dup.
+		close (0)	|
+		dup(fd[0])	| => para cerrar y cambiar la entrada estándar.
+
+		dup2 realiza los dos pasos anteriores en uno.
+		
+			int dup2(int oldfd, int newfd);
+				oldfd -> Antiguo descriptor.
+				newfd -> Nuevo descriptor.

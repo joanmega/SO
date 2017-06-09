@@ -1,0 +1,31 @@
+// ejercicio4
+
+#include<sys/types.h>	//Primitive system data types for abstraction of implementation-dependent data types.
+						//POSIX Standard: 2.6 Primitive System Data Types <sys/types.h>
+#include<unistd.h>		//POSIX Standard: 2.10 Symbolic Constants         <unistd.h>
+#include<stdio.h>
+#include<errno.h>
+#include <stdlib.h>
+
+int main(){
+	int i, PID[5];
+	pid_t PID_hijos[5];
+	
+	for (i=0; i<5; i++){
+		if ((PID[i]=fork())<0){
+			printf("Error al crear los hijos\n");
+			exit(-1);
+		}
+		if (PID[i]==0){
+			PID_hijos[i] = getpid();
+			printf("Soy el hijo %d\n", getpid());
+			break;
+		}
+	}
+	for (i=0;i<5;i++){
+		if (PID[i]==0){
+			printf("Acaba de finalizar mi hijo con %d\n", getpid());
+		}
+		wait();
+	}
+}

@@ -1,0 +1,101 @@
+/home/medina/Facultad/Grado/SO/:
+total 1328
+ 917105 drwx------  7 medina medina    4096 2011-11-16 16:33 .
+ 917103 drwx------ 10 medina medina    4096 2011-10-18 17:33 ..
+ 940028 -rwxrwxrwx  1 medina medina     254 2011-11-01 12:54 actividad 3.2
+1060430 -rw-r--r--  1 medina medina 1309444 2011-11-10 20:15 A-T-SO-tema2.pdf
+ 915579 -rw-r--r--  1 medina medina     516 2011-11-16 11:50 borrados_2011-11-16
+ 915578 -rw-r--r--  1 medina medina      25 2011-11-16 11:33 borrados_2011-320-11:33:43-1871
+ 438305 drwxr-xr-x  2 medina medina    4096 2011-11-09 10:36 sesion1
+ 549981 drwxr-xr-x  2 medina medina    4096 2011-11-16 10:53 sesion2
+ 549982 drwxr-xr-x  2 medina medina    4096 2011-11-16 11:32 sesion3
+ 653088 drwxr-xr-x  2 medina medina    4096 2011-11-16 11:50 sesion4
+ 940829 -rwxrwxrwx  1 medina medina      25 2011-11-08 19:16 sesion4_ejercicio4_3~
+ 942041 -rwxrwxrwx  1 medina medina     126 2011-11-09 10:26 sesion4_ejercicio4_4~
+  23192 drwxr-xr-x  3 medina medina    4096 2011-11-23 10:10 sesion5
+
+/home/medina/Facultad/Grado/SO/sesion1:
+total 288
+438305 drwxr-xr-x 2 medina medina   4096 2011-11-09 10:36 .
+917105 drwx------ 7 medina medina   4096 2011-11-16 16:33 ..
+917113 -rw------- 1 medina medina  35800 2011-10-18 17:33 todos-P-Modulo1-Sesion1-Autoevaluacion.odt
+917111 -rw------- 1 medina medina 247134 2011-10-18 17:32 todos-P-Modulo1-Sesion1-Guion.pdf
+
+/home/medina/Facultad/Grado/SO/sesion2:
+total 284
+549981 drwxr-xr-x 2 medina medina   4096 2011-11-16 10:53 .
+917105 drwx------ 7 medina medina   4096 2011-11-16 16:33 ..
+912378 -rw-r--r-- 1 medina medina  38136 2011-10-26 18:32 todos-P-Modulo1-Sesion2-Autoevaluacion.odt
+917109 -rw------- 1 medina medina 241213 2011-10-24 16:45 todos-P-Modulo1-Sesion2-Guion.pdf
+
+/home/medina/Facultad/Grado/SO/sesion3:
+total 304
+ 549982 drwxr-xr-x 2 medina medina   4096 2011-11-16 11:32 .
+ 917105 drwx------ 7 medina medina   4096 2011-11-16 16:33 ..
+1054623 -rw-r--r-- 1 medina medina  37787 2011-11-02 11:46 todos-P-Modulo1-Sesion3-Autoevaluacion.odt
+1054640 -rw-r--r-- 1 medina medina 258229 2011-11-02 10:11 todos-P-Modulo1-Sesion3-Guion.pdf
+
+/home/medina/Facultad/Grado/SO/sesion4:
+total 764
+ 653088 drwxr-xr-x 2 medina medina   4096 2011-11-16 11:50 .
+ 917105 drwx------ 7 medina medina   4096 2011-11-16 16:33 ..
+ 672146 -rw-r--r-- 1 medina medina   1557 2011-11-10 19:09 1
+ 653713 -rw-r--r-- 1 medina medina     71 2011-11-11 20:05 crontab
+ 663603 -rw-r--r-- 1 medina medina     78 2011-11-11 20:05 crontab~
+ 671976 -rw-r--r-- 1 medina medina 398009 2011-11-09 11:02 modificados2011-313-11:01:39
+ 664108 -rwxrwxrwx 1 medina medina    154 2011-11-11 20:26 reducelista
+ 672058 -rwxrwxrwx 1 medina medina    154 2011-11-11 20:26 reducelista~
+ 940772 -rwxrwxrwx 1 medina medina     26 2011-11-08 19:16 sesion4_ejercicio4_3
+ 941388 -rwxrwxrwx 1 medina medina    104 2011-11-09 10:26 sesion4_ejercicio4_4
+ 671968 -rwxrwxrwx 1 medina medina     94 2011-11-09 11:54 sesion4_ejercicio4_5
+ 671676 -rwxrwxrwx 1 medina medina     94 2011-11-09 11:54 sesion4_ejercicio4_5~
+ 653081 -rwxrwxrwx 1 medina medina    608 2011-11-11 19:58 sesion4_ejercicio5_2
+ 663728 -rwxrwxrwx 1 medina medina    606 2011-11-11 19:58 sesion4_ejercicio5_2~
+1068348 -rw-r--r-- 1 medina medina  27138 2011-11-11 20:46 todos-P-Modulo1-Sesion4-Autoevaluacion.odt
+1068343 -rw-r--r-- 1 medina medina 298290 2011-11-07 17:50 todos-P-Modulo1-Sesion4-Guion.pdf
+
+/home/medina/Facultad/Grado/SO/sesion5:
+total 112
+  23192 drwxr-xr-x 3 medina medina   4096 2011-11-23 10:10 .
+ 917105 drwx------ 7 medina medina   4096 2011-11-16 16:33 ..
+  23523 drwxr-xr-x 3 medina medina   4096 2011-11-23 21:08 todos-P-Modulo2-Sesion1
+1060428 -rw-r--r-- 1 medina medina 100121 2011-11-16 16:33 todos-P-Modulo2-Sesion1.zip
+
+/home/medina/Facultad/Grado/SO/sesion5/todos-P-Modulo2-Sesion1:
+total 192
+23523 drwxr-xr-x 3 medina medina   4096 2011-11-23 21:08 .
+23192 drwxr-xr-x 3 medina medina   4096 2011-11-23 10:10 ..
+23977 drwxr-xr-x 4 medina medina   4096 2011-11-23 17:40 archivosSesion1y2Modulo2
+23583 -rw-r--r-- 1 medina medina  10240 2011-11-16 12:27 archivosSesion1y2Modulo2.tar
+23524 -rw-r--r-- 1 medina medina 133312 2011-11-16 12:45 SO-Modulo2-Sesion1-Guion_v1.pdf
+23584 -rw-r--r-- 1 medina medina  35096 2011-11-23 10:47 todos-P-Modulo2-Sesion1-Autoevaluacion.odt
+
+/home/medina/Facultad/Grado/SO/sesion5/todos-P-Modulo2-Sesion1/archivosSesion1y2Modulo2:
+total 32
+23977 drwxr-xr-x 4 medina medina 4096 2011-11-23 17:40 .
+23523 drwxr-xr-x 3 medina medina 4096 2011-11-23 21:08 ..
+25937 drwxr-xr-x 2 medina medina 4096 2011-11-23 17:39 ejercicio1
+24890 drwxr-xr-x 2 medina medina 4096 2011-11-24 18:20 ejercicio2
+25906 -rw-r--r-- 1 medina medina 1341 2011-11-23 17:38 ejercicio2.c~
+25905 -rwxr-xr-x 1 medina medina  937 2011-11-23 10:45 tarea1.c~
+24003 -rwxr-xr-x 1 medina medina 1460 2005-03-07 11:16 tarea2.c
+24009 -rwxr-xr-x 1 medina medina 1788 2005-03-07 11:16 tarea3.c
+
+/home/medina/Facultad/Grado/SO/sesion5/todos-P-Modulo2-Sesion1/archivosSesion1y2Modulo2/ejercicio1:
+total 20
+25937 drwxr-xr-x 2 medina medina 4096 2011-11-23 17:39 .
+23977 drwxr-xr-x 4 medina medina 4096 2011-11-23 17:40 ..
+25213 -rwxr-xr-x 1 medina medina 7432 2011-11-23 10:45 tarea1
+23979 -rwxr-xr-x 1 medina medina  938 2011-11-23 10:45 tarea1.c
+
+/home/medina/Facultad/Grado/SO/sesion5/todos-P-Modulo2-Sesion1/archivosSesion1y2Modulo2/ejercicio2:
+total 36
+24890 drwxr-xr-x 2 medina medina 4096 2011-11-24 18:20 .
+23977 drwxr-xr-x 4 medina medina 4096 2011-11-23 17:40 ..
+26608 -rw------- 1 medina medina   50 2011-11-24 18:12 archivo
+26380 -rw------- 1 medina medina    0 2011-11-24 18:17 destino
+26221 -rwxr-xr-x 1 medina medina 7381 2011-11-24 18:17 ejercicio2
+17122 -rw-r--r-- 1 medina medina 1402 2011-11-24 18:20 ejercicio2.c
+25907 -rw-r--r-- 1 medina medina 1402 2011-11-24 18:20 ejercicio2.c~
+26213 -rw-r--r-- 1 medina medina 1500 2011-11-24 18:17 ejercicio2.o
+26222 -rw-r--r-- 1 medina medina 4096 2011-11-24 18:20 hola.txt

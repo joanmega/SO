@@ -1,0 +1,16 @@
+Cuotas de disco para user pepito (uid 1001):
+  Sist. arch.                  bloques     blando       duro     inodos   blando     duro
+  /dev/loop0                        0          50         60          0       50       60
+
+
+
+Cuotas de disco para user jose (uid 1000):
+  Sist. arch.                  bloques     blando       duro     inodos   blando     duro
+  /dev/loop0                        0         90         100          0       90      100 
+
+
+
+
+
+
+

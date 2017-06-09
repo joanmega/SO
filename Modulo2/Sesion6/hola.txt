@@ -1,0 +1,7 @@
+ejercicio1
+ejercicio1.c
+hola.txt
+Sesion6.zip
+SO-Modulo2-Sesion6-Autoevaluacion.odt
+SO-Modulo2-Sesion6-Guion.pdf
+src

@@ -1,0 +1,408 @@
+Bloque 1
+// Aquí van los primeros 80 Bytes del archivo pasado como argumento.
+
+/home/medina/Facultad/Grado/SO/:
+total 1328
+ 917105 drwx------  7 medina medina 
+
+Bloque 2
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+
+   4096 2011-11-16 16:33 .
+ 917103 drwx------ 10 medina medina    4096 2011-10-1
+
+Bloque 3
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+
+8 17:33 ..
+ 940028 -rwxrwxrwx  1 medina medina     254 2011-11-01 12:54 activida
+
+Bloque 4
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+
+d 3.2
+1060430 -rw-r--r--  1 medina medina 1309444 2011-11-10 20:15 A-T-SO-tema2.
+
+Bloque 5
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+
+pdf
+ 915579 -rw-r--r--  1 medina medina     516 2011-11-16 11:50 borrados_2011-1
+
+Bloque 6
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+
+1-16
+ 915578 -rw-r--r--  1 medina medina      25 2011-11-16 11:33 borrados_2011-
+
+Bloque 7
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+
+320-11:33:43-1871
+ 438305 drwxr-xr-x  2 medina medina    4096 2011-11-09 10:36 s
+
+Bloque 8
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+
+esion1
+ 549981 drwxr-xr-x  2 medina medina    4096 2011-11-16 10:53 sesion2
+ 549
+
+Bloque 9
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+
+982 drwxr-xr-x  2 medina medina    4096 2011-11-16 11:32 sesion3
+ 653088 drwxr-x
+
+Bloque 10
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+r-x  2 medina medina    4096 2011-11-16 11:50 sesion4
+ 940829 -rwxrwxrwx  1 medi
+
+Bloque 11
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+na medina      25 2011-11-08 19:16 sesion4_ejercicio4_3~
+ 942041 -rwxrwxrwx  1 m
+
+Bloque 12
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+edina medina     126 2011-11-09 10:26 sesion4_ejercicio4_4~
+  23192 drwxr-xr-x  
+
+Bloque 13
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+3 medina medina    4096 2011-11-23 10:10 sesion5
+
+/home/medina/Facultad/Grado/SO
+
+Bloque 14
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+/sesion1:
+total 288
+438305 drwxr-xr-x 2 medina medina   4096 2011-11-09 10:36 .
+
+
+Bloque 15
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+917105 drwx------ 7 medina medina   4096 2011-11-16 16:33 ..
+917113 -rw------- 1
+
+Bloque 16
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+ medina medina  35800 2011-10-18 17:33 todos-P-Modulo1-Sesion1-Autoevaluacion.od
+
+Bloque 17
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+t
+917111 -rw------- 1 medina medina 247134 2011-10-18 17:32 todos-P-Modulo1-Sesi
+
+Bloque 18
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+on1-Guion.pdf
+
+/home/medina/Facultad/Grado/SO/sesion2:
+total 284
+549981 drwxr-xr
+
+Bloque 19
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+-x 2 medina medina   4096 2011-11-16 10:53 .
+917105 drwx------ 7 medina medina  
+
+Bloque 20
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+ 4096 2011-11-16 16:33 ..
+912378 -rw-r--r-- 1 medina medina  38136 2011-10-26 18
+
+Bloque 21
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+:32 todos-P-Modulo1-Sesion2-Autoevaluacion.odt
+917109 -rw------- 1 medina medina
+
+Bloque 22
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+ 241213 2011-10-24 16:45 todos-P-Modulo1-Sesion2-Guion.pdf
+
+/home/medina/Faculta
+
+Bloque 23
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+d/Grado/SO/sesion3:
+total 304
+ 549982 drwxr-xr-x 2 medina medina   4096 2011-11-
+
+Bloque 24
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+16 11:32 .
+ 917105 drwx------ 7 medina medina   4096 2011-11-16 16:33 ..
+1054623
+
+Bloque 25
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+ -rw-r--r-- 1 medina medina  37787 2011-11-02 11:46 todos-P-Modulo1-Sesion3-Auto
+
+Bloque 26
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+evaluacion.odt
+1054640 -rw-r--r-- 1 medina medina 258229 2011-11-02 10:11 todos-
+
+Bloque 27
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+P-Modulo1-Sesion3-Guion.pdf
+
+/home/medina/Facultad/Grado/SO/sesion4:
+total 764
+ 
+
+Bloque 28
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+653088 drwxr-xr-x 2 medina medina   4096 2011-11-16 11:50 .
+ 917105 drwx------ 7
+
+Bloque 29
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+ medina medina   4096 2011-11-16 16:33 ..
+ 672146 -rw-r--r-- 1 medina medina   1
+
+Bloque 30
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+557 2011-11-10 19:09 1
+ 653713 -rw-r--r-- 1 medina medina     71 2011-11-11 20:0
+
+Bloque 31
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+5 crontab
+ 663603 -rw-r--r-- 1 medina medina     78 2011-11-11 20:05 crontab~
+ 6
+
+Bloque 32
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+71976 -rw-r--r-- 1 medina medina 398009 2011-11-09 11:02 modificados2011-313-11:
+
+Bloque 33
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+01:39
+ 664108 -rwxrwxrwx 1 medina medina    154 2011-11-11 20:26 reducelista
+ 67
+
+Bloque 34
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+2058 -rwxrwxrwx 1 medina medina    154 2011-11-11 20:26 reducelista~
+ 940772 -rw
+
+Bloque 35
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+xrwxrwx 1 medina medina     26 2011-11-08 19:16 sesion4_ejercicio4_3
+ 941388 -rw
+
+Bloque 36
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+xrwxrwx 1 medina medina    104 2011-11-09 10:26 sesion4_ejercicio4_4
+ 671968 -rw
+
+Bloque 37
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+xrwxrwx 1 medina medina     94 2011-11-09 11:54 sesion4_ejercicio4_5
+ 671676 -rw
+
+Bloque 38
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+xrwxrwx 1 medina medina     94 2011-11-09 11:54 sesion4_ejercicio4_5~
+ 653081 -r
+
+Bloque 39
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+wxrwxrwx 1 medina medina    608 2011-11-11 19:58 sesion4_ejercicio5_2
+ 663728 -r
+
+Bloque 40
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+wxrwxrwx 1 medina medina    606 2011-11-11 19:58 sesion4_ejercicio5_2~
+1068348 -
+
+Bloque 41
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+rw-r--r-- 1 medina medina  27138 2011-11-11 20:46 todos-P-Modulo1-Sesion4-Autoev
+
+Bloque 42
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+aluacion.odt
+1068343 -rw-r--r-- 1 medina medina 298290 2011-11-07 17:50 todos-P-
+
+Bloque 43
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+Modulo1-Sesion4-Guion.pdf
+
+/home/medina/Facultad/Grado/SO/sesion5:
+total 112
+  2
+
+Bloque 44
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+3192 drwxr-xr-x 3 medina medina   4096 2011-11-23 10:10 .
+ 917105 drwx------ 7 m
+
+Bloque 45
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+edina medina   4096 2011-11-16 16:33 ..
+  23523 drwxr-xr-x 3 medina medina   409
+
+Bloque 46
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+6 2011-11-23 21:08 todos-P-Modulo2-Sesion1
+1060428 -rw-r--r-- 1 medina medina 10
+
+Bloque 47
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+0121 2011-11-16 16:33 todos-P-Modulo2-Sesion1.zip
+
+/home/medina/Facultad/Grado/S
+
+Bloque 48
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+O/sesion5/todos-P-Modulo2-Sesion1:
+total 192
+23523 drwxr-xr-x 3 medina medina   
+
+Bloque 49
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+4096 2011-11-23 21:08 .
+23192 drwxr-xr-x 3 medina medina   4096 2011-11-23 10:10
+
+Bloque 50
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+ ..
+23977 drwxr-xr-x 4 medina medina   4096 2011-11-23 17:40 archivosSesion1y2Mo
+
+Bloque 51
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+dulo2
+23583 -rw-r--r-- 1 medina medina  10240 2011-11-16 12:27 archivosSesion1y2
+
+Bloque 52
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+Modulo2.tar
+23524 -rw-r--r-- 1 medina medina 133312 2011-11-16 12:45 SO-Modulo2-
+
+Bloque 53
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+Sesion1-Guion_v1.pdf
+23584 -rw-r--r-- 1 medina medina  35096 2011-11-23 10:47 to
+
+Bloque 54
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+dos-P-Modulo2-Sesion1-Autoevaluacion.odt
+
+/home/medina/Facultad/Grado/SO/sesion5
+
+Bloque 55
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+/todos-P-Modulo2-Sesion1/archivosSesion1y2Modulo2:
+total 32
+23977 drwxr-xr-x 4 m
+
+Bloque 56
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+edina medina 4096 2011-11-23 17:40 .
+23523 drwxr-xr-x 3 medina medina 4096 2011-
+
+Bloque 57
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+11-23 21:08 ..
+25937 drwxr-xr-x 2 medina medina 4096 2011-11-23 17:39 ejercicio1
+
+Bloque 58
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+
+24890 drwxr-xr-x 2 medina medina 4096 2011-11-24 18:20 ejercicio2
+25906 -rw-r--
+
+Bloque 59
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+r-- 1 medina medina 1341 2011-11-23 17:38 ejercicio2.c~
+25905 -rwxr-xr-x 1 medin
+
+Bloque 60
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+a medina  937 2011-11-23 10:45 tarea1.c~
+24003 -rwxr-xr-x 1 medina medina 1460 2
+
+Bloque 61
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+005-03-07 11:16 tarea2.c
+24009 -rwxr-xr-x 1 medina medina 1788 2005-03-07 11:16 
+
+Bloque 62
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+tarea3.c
+
+/home/medina/Facultad/Grado/SO/sesion5/todos-P-Modulo2-Sesion1/archivo
+
+Bloque 63
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+sSesion1y2Modulo2/ejercicio1:
+total 20
+25937 drwxr-xr-x 2 medina medina 4096 201
+
+Bloque 64
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+1-11-23 17:39 .
+23977 drwxr-xr-x 4 medina medina 4096 2011-11-23 17:40 ..
+25213 
+
+Bloque 65
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+-rwxr-xr-x 1 medina medina 7432 2011-11-23 10:45 tarea1
+23979 -rwxr-xr-x 1 medin
+
+Bloque 66
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+a medina  938 2011-11-23 10:45 tarea1.c
+
+/home/medina/Facultad/Grado/SO/sesion5/
+
+Bloque 67
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+todos-P-Modulo2-Sesion1/archivosSesion1y2Modulo2/ejercicio2:
+total 36
+24890 drwx
+
+Bloque 68
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+r-xr-x 2 medina medina 4096 2011-11-24 18:20 .
+23977 drwxr-xr-x 4 medina medina 
+
+Bloque 69
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+4096 2011-11-23 17:40 ..
+26608 -rw------- 1 medina medina   50 2011-11-24 18:12 
+
+Bloque 70
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+archivo
+26380 -rw------- 1 medina medina    0 2011-11-24 18:17 destino
+26221 -rw
+
+Bloque 71
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+xr-xr-x 1 medina medina 7381 2011-11-24 18:17 ejercicio2
+17122 -rw-r--r-- 1 medi
+
+Bloque 72
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+na medina 1402 2011-11-24 18:20 ejercicio2.c
+25907 -rw-r--r-- 1 medina medina 14
+
+Bloque 73
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+02 2011-11-24 18:20 ejercicio2.c~
+26213 -rw-r--r-- 1 medina medina 1500 2011-11-
+
+Bloque 74
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+24 18:17 ejercicio2.o
+26222 -rw-r--r-- 1 medina medina 4096 2011-11-24 18:20 hol
+
+Bloque 75
+// Aquí van los siguientes 80 Bytes del archivo pasado como argumento.
+a.txt
